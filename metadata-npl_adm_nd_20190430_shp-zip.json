@@ -1,0 +1,15 @@
+{
+    "created": "2020-06-18T09:34:34.382362",
+    "description": "Nepal administrative level 0-3 boundary shapefiles",
+    "format": "SHP",
+    "download_url": "https://data.humdata.org/dataset/07db728a-4f0f-4e98-8eb0-8fa9df61f01c/resource/2eb4c47f-fd6e-425d-b623-d35be1a7640e/download/npl_adm_nd_20190430_shp.zip",
+    "id": "2eb4c47f-fd6e-425d-b623-d35be1a7640e",
+    "last_modified": "2023-03-27T15:12:03.375572",
+    "metadata_modified": "2023-03-27T15:12:09.142273",
+    "microdata": false,
+    "dataset_id": "07db728a-4f0f-4e98-8eb0-8fa9df61f01c",
+    "resource_type": "file.upload",
+    "name": "npl_adm_nd_20190430_SHP.zip",
+    "mimetype": "application/x-zip-compressed",
+    "size": "26.1M"
+}
